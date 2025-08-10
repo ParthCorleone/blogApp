@@ -38,5 +38,3 @@ A full-stack **Blog Application** built using the **MERN stack** (MongoDB, Expre
 
 ---
 
-## 📂 Folder Structure
-
