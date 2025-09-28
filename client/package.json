@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "outerDirectory": "dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
